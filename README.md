@@ -29,3 +29,6 @@ To sum up, this project gave participants practical experience using a machine l
 #OUTPUT 
 
 ![Image](https://github.com/user-attachments/assets/a816b330-970b-43c0-8710-5a87d7e467b1)
+
+![Image](https://github.com/user-attachments/assets/7e69b3f6-5a09-47c7-b8db-652f0a507158)
+
