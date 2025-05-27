@@ -35,3 +35,11 @@ To sum up, this project gave participants practical experience using a machine l
 ![Image](https://github.com/user-attachments/assets/c4dad254-3510-4d73-abba-3e4fc9369665)
 
 ![Image](https://github.com/user-attachments/assets/209cf385-3ecc-422c-87ed-084fd1c8d8d1)
+
+![Image](https://github.com/user-attachments/assets/901e420b-90f6-4e0e-b155-2264a58074c0)
+
+![Image](https://github.com/user-attachments/assets/98d26bf7-cc7e-4036-a7c5-375f66aa8d76)
+
+![Image](https://github.com/user-attachments/assets/2c0c133c-9f66-4ee4-a238-6d3b31a4eece)
+
+![Image](https://github.com/user-attachments/assets/05c6277d-dbbe-4c31-8a16-5ade9c0cf7bb)
