@@ -25,3 +25,7 @@ I displayed the confusion matrices using seaborn heatmaps to visually evaluate t
 Lastly, I was able to determine which splitting criterion performed better on this particular dataset by contrasting the outcomes of the Gini and Entropy-based models. Although the accuracy levels of both models were comparable, this experiment demonstrated how crucial it is to assess various configurations in order to determine which is best for a particular issue.
 
 To sum up, this project gave participants practical experience using a machine learning algorithm on an actual healthcare dataset. It addressed every step of the procedure, including data preprocessing, model evaluation and training, and visualization. Learning from GeeksforGeeks made sure that the implementation adhered to best practices, and using Google Colab made experimentation easy. The project was both technically and socially significant because it combined theory and practice to improve my understanding of decision trees and show how machine learning can be used for important tasks like cancer diagnosis.
+
+#OUTPUT 
+
+![Image](https://github.com/user-attachments/assets/a816b330-970b-43c0-8710-5a87d7e467b1)
